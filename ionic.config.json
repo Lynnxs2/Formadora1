@@ -1,0 +1,7 @@
+{
+  "name": "dale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
